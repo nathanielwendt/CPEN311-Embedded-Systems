@@ -1,4 +1,4 @@
-/* Lab 4: Nathaniel Wendt
+/* Lab 3: Nathaniel Wendt
 		Reads a keypad entry and displays its 15 segment representation on the lights
 */
 typedef unsigned char INT8U;
